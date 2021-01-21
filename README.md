@@ -2,7 +2,8 @@
  @copyright :  김태현 , 최현아, 최지석, 이민우 
  
  해당 레지스토리는 포트폴리오용으로 개인 저장용입니다.
- https://github.com/thlbyl0109/AndroidProject_tify
+ 
+    https://github.com/thlbyl0109/AndroidProject_tify
  여기서 히스토리 내역 확인할 수 있습니다.
  
  
